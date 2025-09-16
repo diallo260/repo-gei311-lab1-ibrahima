@@ -1,4 +1,15 @@
+                Universite du Quebec a chicoutimi 
+             laboratoire1 d'Architecture des logiciels 
+
+
+Travail realise par : 
+Diallo Ibrahima DIAI01100203
+Adama Alseny Balde BALA27070105
  
+session : Automne 2025 
+
+
+
 ReadMe-lab1-Gestion des versions 
 
 1. Enonce du laboratoire et reponse a chaque consigne.
